@@ -3,6 +3,7 @@ from textSummarizer.conponents.data_ingestion import DataIngestion
 from textSummarizer.logging import logger
 
 
+
 class DataIngestionTrainingPipeline:
     def __init__(self):
         pass
